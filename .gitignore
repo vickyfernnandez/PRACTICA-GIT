@@ -8,5 +8,11 @@ __pycache__/
 
 # Dataset
 /titanic.csv 
-
+datos/titanic.csv
 #La / indica que esta en la raiz del proyecto
+
+# Si quiero ignorar todos los csv
+# datos/*.csv
+
+#.gitkeep para que tenga la carpeta datos si esta en gitignore
+
