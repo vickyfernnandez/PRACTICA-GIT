@@ -10,4 +10,4 @@ fig.savefig("plot.png")
 
 fig,ax =plt.subplots()
 sns.countplot(x = "Pclass", hue = "Survived", data=datos)
-fig.savefig("plot2.png")
+fig.savefig("grafico_de_barras.png")
